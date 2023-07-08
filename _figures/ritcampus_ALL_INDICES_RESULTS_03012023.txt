@@ -1,0 +1,44 @@
+ritcampus ERGAS results...................................
+NNDIFFUSE_I:  1.72846
+NNDIFFUSE_II:  1.7033
+CNMF:  1.5115
+HYSURE:  4.65846
+GDD:  2.90641
+SSRNET:  2.22622
+ResTFNet:  1.84679
+
+ritcampus SAM results...................................
+NNDIFFUSE_I:  0.04613
+NNDIFFUSE_II:  0.04561
+CNMF:  0.04134
+HYSURE:  0.08046
+GDD:  0.08002
+SSRNET:  0.06835
+ResTFNet:  0.0532
+
+ritcampus PSNR results...................................
+NNDIFFUSE_I:  39.0222
+NNDIFFUSE_II:  39.14294
+CNMF:  40.16843
+HYSURE:  30.31315
+GDD:  34.45407
+SSRNET:  36.84139
+ResTFNet:  38.49396
+
+ritcampus RMSE results...................................
+NNDIFFUSE_I:  84.1604
+NNDIFFUSE_II:  82.99858
+CNMF:  73.7558
+HYSURE:  229.38261
+GDD:  142.4014
+SSRNET:  108.18029
+ResTFNet:  89.43759
+
+ritcampus CROSS_CORR results...................................
+NNDIFFUSE_I:  0.96992
+NNDIFFUSE_II:  0.97032
+CNMF:  0.97527
+HYSURE:  0.91918
+GDD:  0.93813
+SSRNET:  0.95992
+ResTFNet:  0.96837

@@ -1,0 +1,28 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Tue Oct 26 09:47:59 2021]}
+samples = 400
+lines   = 280
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 5
+class lookup = {
+   0,   0,   0, 255,   0,   0, 255, 255,   0,   0,   0, 255, 176,  48,  96}
+class names = {
+ Unclassified, F1_Site 12 - Sub_red_cotton [Red] 8 points, 
+ F2_Site 5 - Sub_yellow_nylon [Yellow] 8 points, 
+ F3_Site 4 - Sub_blue_cotton [Blue] 8 points, 
+ F4_Site 11 - Sub_red_nylon [Maroon] 8 points}
+byte order = 0
+x start = 1894
+y start = 1290
+map info = {UTM, 1.000, 1.000, 583678.500, 4986234.500, 3.0000000000e+00, 3.0000000000e+00, 12, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_12N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-111.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ Resize (Class Image from ROIs:[Memory1])}

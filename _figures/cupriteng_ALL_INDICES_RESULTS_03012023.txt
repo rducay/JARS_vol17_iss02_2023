@@ -1,0 +1,39 @@
+cupriteng ERGAS results...................................
+NNDIFFUSE_I:  0.60599
+NNDIFFUSE_II:  0.63152
+CNMF:  0.6835
+HYSURE:  0.82612
+GDD:  1.22732
+SSRNET:  1.16811
+
+cupriteng SAM results...................................
+NNDIFFUSE_I:  0.01423
+NNDIFFUSE_II:  0.01506
+CNMF:  0.01616
+HYSURE:  0.01774
+GDD:  0.03166
+SSRNET:  0.03486
+
+cupriteng PSNR results...................................
+NNDIFFUSE_I:  40.8669
+NNDIFFUSE_II:  40.51031
+CNMF:  39.83606
+HYSURE:  38.18793
+GDD:  34.80404
+SSRNET:  35.1331
+
+cupriteng RMSE results...................................
+NNDIFFUSE_I:  89.88597
+NNDIFFUSE_II:  93.65295
+CNMF:  101.21243
+HYSURE:  122.36016
+GDD:  180.64873
+SSRNET:  173.9329
+
+cupriteng CROSS_CORR results...................................
+NNDIFFUSE_I:  0.98239
+NNDIFFUSE_II:  0.98035
+CNMF:  0.97887
+HYSURE:  0.97146
+GDD:  0.92465
+SSRNET:  0.95467

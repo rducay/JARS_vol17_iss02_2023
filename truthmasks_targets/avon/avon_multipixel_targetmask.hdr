@@ -1,0 +1,25 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Fri Oct 22 15:49:54 2021]}
+samples = 320
+lines   = 400
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 3
+class lookup = {
+   0,   0,   0, 255, 255,   0,   0, 255, 255}
+class names = {
+ Unclassified, RedFelt_Class1 [Yellow] 58 points, 
+ BlueFelt_Class2 [Cyan] 67 points}
+byte order = 0
+y start = 748
+wavelength units = Unknown
+band names = {
+ Resize (Class Image from ROIs:AVONPM_redClass1_and_blueClass2_felts_alllocations.img)}
+spectir smoothing = Savitsky-Golay smoothing and CO2 mitigation applied
+savgolay version number = 2.3, 3 Aug 2011

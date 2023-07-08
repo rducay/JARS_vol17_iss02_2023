@@ -1,0 +1,44 @@
+avon ERGAS results...................................
+NNDIFFUSE_I:  1.82592
+NNDIFFUSE_II:  1.80429
+CNMF:  1.50814
+HYSURE:  4.07352
+GDD:  2.74955
+SSRNET:  2.23425
+ResTFNet:  2.26966
+
+avon SAM results...................................
+NNDIFFUSE_I:  0.04908
+NNDIFFUSE_II:  0.04857
+CNMF:  0.03679
+HYSURE:  0.06961
+GDD:  0.06483
+SSRNET:  0.06332
+ResTFNet:  0.06332
+
+avon PSNR results...................................
+NNDIFFUSE_I:  36.1015
+NNDIFFUSE_II:  36.21958
+CNMF:  37.80506
+HYSURE:  29.21004
+GDD:  32.73484
+SSRNET:  34.32433
+ResTFNet:  34.22812
+
+avon RMSE results...................................
+NNDIFFUSE_I:  114.54099
+NNDIFFUSE_II:  112.99451
+CNMF:  94.14193
+HYSURE:  253.24104
+GDD:  168.76955
+SSRNET:  140.54645
+ResTFNet:  142.11176
+
+avon CROSS_CORR results...................................
+NNDIFFUSE_I:  0.97514
+NNDIFFUSE_II:  0.97568
+CNMF:  0.98201
+HYSURE:  0.93046
+GDD:  0.96086
+SSRNET:  0.95098
+ResTFNet:  0.96502

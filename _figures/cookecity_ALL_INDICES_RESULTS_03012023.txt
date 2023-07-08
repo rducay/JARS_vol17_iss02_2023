@@ -1,0 +1,44 @@
+cookecity ERGAS results...................................
+NNDIFFUSE_I:  3.02691
+NNDIFFUSE_II:  2.90818
+CNMF:  2.65933
+HYSURE:  6.33994
+GDD:  4.34956
+SSRNET:  2.92341
+ResTFNet:  3.01853
+
+cookecity SAM results...................................
+NNDIFFUSE_I:  0.07734
+NNDIFFUSE_II:  0.07551
+CNMF:  0.07359
+HYSURE:  0.10822
+GDD:  0.10824
+SSRNET:  0.07764
+ResTFNet:  0.08362
+
+cookecity PSNR results...................................
+NNDIFFUSE_I:  42.46893
+NNDIFFUSE_II:  42.90761
+CNMF:  44.29738
+HYSURE:  36.04824
+GDD:  39.66832
+SSRNET:  43.10049
+ResTFNet:  42.74895
+
+cookecity RMSE results...................................
+NNDIFFUSE_I:  98.8441
+NNDIFFUSE_II:  93.97593
+CNMF:  80.08072
+HYSURE:  207.00697
+GDD:  136.45238
+SSRNET:  91.9121
+ResTFNet:  95.70829
+
+cookecity CROSS_CORR results...................................
+NNDIFFUSE_I:  0.98586
+NNDIFFUSE_II:  0.98816
+CNMF:  0.99189
+HYSURE:  0.95122
+GDD:  0.97324
+SSRNET:  0.98902
+ResTFNet:  0.98842

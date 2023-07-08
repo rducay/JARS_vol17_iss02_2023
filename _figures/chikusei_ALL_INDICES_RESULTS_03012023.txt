@@ -1,0 +1,39 @@
+chikusei ERGAS results...................................
+NNDIFFUSE_I:  0.70815
+NNDIFFUSE_II:  0.70815
+CNMF:  0.64381
+HYSURE:  4.08008
+GDD:  1.25599
+SSRNET:  0.67732
+
+chikusei SAM results...................................
+NNDIFFUSE_I:  0.0217
+NNDIFFUSE_II:  0.0217
+CNMF:  0.02043
+HYSURE:  0.06161
+GDD:  0.03357
+SSRNET:  0.0219
+
+chikusei PSNR results...................................
+NNDIFFUSE_I:  43.90739
+NNDIFFUSE_II:  43.90739
+CNMF:  44.73019
+HYSURE:  28.73661
+GDD:  38.99077
+SSRNET:  44.2923
+
+chikusei RMSE results...................................
+NNDIFFUSE_I:  36.22252
+NNDIFFUSE_II:  36.22252
+CNMF:  32.94874
+HYSURE:  207.73886
+GDD:  63.7984
+SSRNET:  34.65239
+
+chikusei CROSS_CORR results...................................
+NNDIFFUSE_I:  0.98968
+NNDIFFUSE_II:  0.98968
+CNMF:  0.98799
+HYSURE:  0.91046
+GDD:  0.97845
+SSRNET:  0.98973

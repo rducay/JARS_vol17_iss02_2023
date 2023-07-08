@@ -1,0 +1,39 @@
+gudalur ERGAS results...................................
+NNDIFFUSE_I:  4.37339
+NNDIFFUSE_II:  4.37848
+CNMF:  2.99
+HYSURE:  6.2211
+GDD:  5.52623
+SSRNET:  4.02245
+
+gudalur SAM results...................................
+NNDIFFUSE_I:  0.07764
+NNDIFFUSE_II:  0.07754
+CNMF:  0.04998
+HYSURE:  0.12228
+GDD:  0.1031
+SSRNET:  0.07197
+
+gudalur PSNR results...................................
+NNDIFFUSE_I:  40.32656
+NNDIFFUSE_II:  40.31638
+CNMF:  43.55026
+HYSURE:  37.34225
+GDD:  38.35471
+SSRNET:  41.0096
+
+gudalur RMSE results...................................
+NNDIFFUSE_I:  315.17493
+NNDIFFUSE_II:  315.54446
+CNMF:  217.4537
+HYSURE:  444.39285
+GDD:  395.49792
+SSRNET:  291.33954
+
+gudalur CROSS_CORR results...................................
+NNDIFFUSE_I:  0.93305
+NNDIFFUSE_II:  0.93287
+CNMF:  0.96777
+HYSURE:  0.84689
+GDD:  0.8895
+SSRNET:  0.92606

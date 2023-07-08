@@ -1,0 +1,24 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Sun Oct 24 10:53:22 2021]}
+samples = 320
+lines   = 400
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 3
+class lookup = {
+   0,   0,   0, 218, 112, 214,   0, 255, 255}
+class names = {
+ Unclassified, RedFelt [Orchid] 146 points, BlueFelt [Cyan] 80 points}
+byte order = 0
+y start = 1671
+wavelength units = Unknown
+band names = {
+ Resize (red_and_blue_targets:[Memory1])}
+spectir smoothing = Savitsky-Golay smoothing and CO2 mitigation applied
+savgolay version number = 2.1b, 13 Aug 2010
